@@ -1,0 +1,3 @@
+= NeuroGen
+
+A 3D self-driving car simulator based on the NEAT algorithm, powered by Unity, and written in C#.
